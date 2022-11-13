@@ -1,0 +1,15 @@
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\obj\Debug\net6.0\Peckarnia.csproj.AssemblyReference.cache
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\obj\Debug\net6.0\Peckarnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\obj\Debug\net6.0\Peckarnia.AssemblyInfoInputs.cache
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\obj\Debug\net6.0\Peckarnia.AssemblyInfo.cs
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\obj\Debug\net6.0\Peckarnia.csproj.CoreCompileInputs.cache
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\bin\Debug\net6.0\Peckarnia.exe
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\bin\Debug\net6.0\Peckarnia.deps.json
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\bin\Debug\net6.0\Peckarnia.runtimeconfig.json
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\bin\Debug\net6.0\Peckarnia.dll
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\bin\Debug\net6.0\Peckarnia.pdb
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\obj\Debug\net6.0\Peckarnia.dll
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\obj\Debug\net6.0\refint\Peckarnia.dll
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\obj\Debug\net6.0\Peckarnia.pdb
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\obj\Debug\net6.0\Peckarnia.genruntimeconfig.cache
+C:\Users\Mann\source\repos\mann\Peckarnia\Peckarnia\obj\Debug\net6.0\ref\Peckarnia.dll
